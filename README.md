@@ -1,6 +1,6 @@
 <h1 align="center">👾 Axiolith 👾</h1>
 
-![image](https://github.com/TTENSHII/Game-Jam-2023/assets/87119012/3eeb2ac6-3f1c-41f4-bcce-fdca6ce92962)
+![image](https://github.com/kw4ntiq/Game-Jam-2023/assets/87119012/3eeb2ac6-3f1c-41f4-bcce-fdca6ce92962)
 
 ## 🚀 About
 - **Game Name:** Axiolith
@@ -28,16 +28,13 @@
 
 ## 🎥 Video Trailer
 
-https://github.com/TTENSHII/Game-Jam-2023/assets/87119012/661e3b6a-3dfd-4ce3-8425-c366f4bb8347
+https://github.com/kw4ntiq/Game-Jam-2023/assets/87119012/661e3b6a-3dfd-4ce3-8425-c366f4bb8347
 
 ## 📸 In-Game Screenshots
-![Screenshot 1](https://github.com/TTENSHII/Game-Jam-2023/assets/87119012/8419e348-df9e-4c9a-b927-886578286a1b)
-![Screenshot 2](https://github.com/TTENSHII/Game-Jam-2023/assets/87119012/6756046f-2220-4be3-a202-1f7d5afa3d8d)
-![Screenshot 3](https://github.com/TTENSHII/Game-Jam-2023/assets/87119012/a0612f5c-1070-477b-b32a-a6f0d3cd251f)
-![Screenshot 4](https://github.com/TTENSHII/Game-Jam-2023/assets/87119012/c3dfd28e-f347-479c-8495-478cc1106fe9)
-
-## 🚀 Installation
-For testing purposes, the game is provided in a Google Drive link due to its large size. [Download Axiolith](https://drive.google.com/file/d/1X_sgnBtZkDHc7-aOBIm0rMek1IAxt3W4/view?usp=sharing) 📥
+![Screenshot 1](https://github.com/kw4ntiq/Game-Jam-2023/assets/87119012/8419e348-df9e-4c9a-b927-886578286a1b)
+![Screenshot 2](https://github.com/kw4ntiq/Game-Jam-2023/assets/87119012/6756046f-2220-4be3-a202-1f7d5afa3d8d)
+![Screenshot 3](https://github.com/kw4ntiq/Game-Jam-2023/assets/87119012/a0612f5c-1070-477b-b32a-a6f0d3cd251f)
+![Screenshot 4](https://github.com/kw4ntiq/Game-Jam-2023/assets/87119012/c3dfd28e-f347-479c-8495-478cc1106fe9)
 
 ## ⚙️ Controls
 - ⌨️ qwert keyboard and mouse only
@@ -67,3 +64,4 @@ Some bugs couldn't be fixed in time:
 - 🕹️ Some guards can move on the ground after death.
 - 💻 The game has been built with the highest settings and requires a high-end PC.
 - 🚀 The game may experience crashes when harvesting multiple minerals of different types simultaneously.
+
